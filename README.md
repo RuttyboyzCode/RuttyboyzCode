@@ -3,7 +3,7 @@
 ## 🛠️ Skills & Technologies
 
 - **Languages**: Java, HTML, CSS,
-- **Skills**: skidding! (this readme is skidded!)
+- **Skills**: Not alot
 
 ---
 
