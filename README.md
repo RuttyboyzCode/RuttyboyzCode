@@ -12,7 +12,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ruttyboyzcode&show_icons=true&theme=great-gatsby)
 
 
-  ![Java](https://github-readme-stats.vercel.app/api/top-langs/?username=ruttyboyzcode&layout=compact&theme=great-gatsby)
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=ruttyboyzcode&layout=compact&theme=great-gatsby)
 
 
 ---
