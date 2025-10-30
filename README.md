@@ -2,7 +2,7 @@
 
 ## Skills
 
-- **Languages**: Java, HTML, CSS  
+- **Languages**: Java, Javascript, HTML, CSS  
 
 ---
 
